@@ -1,0 +1,113 @@
+body {
+    font-size: 100%;
+  }
+  .purple-background {
+    background-image: url("https://media.istockphoto.com/photos/modern-red-backlit-keyboard-concept-computer-background-picture-id1142618498?k=20&m=1142618498&s=612x612&w=0&h=nEUEvSmCFFGfzP49d3-EGxhMOO6g-Wr4wawalcIFKY4=");
+    background-size: cover;
+    background-repeat: no repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  
+  
+  #title {
+    position: relative;
+    top: 10px;
+    margin: 10px;
+    padding: 10px; 
+  }
+  h1 {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+  }
+  p {
+    font-size: 20px;
+    color: white;
+  }
+  #description {
+    position: relative;
+    padding: 10px;
+    margin: 10px;
+    top: 0px;
+    font-size: 1.em;
+    text-align: center;
+    color: white;
+  }
+  #survey-form {
+    background-image: url("https://media.istockphoto.com/photos/computer-keyboard-button-with-blue-fingerprint-picture-id465716918?k=20&m=465716918&s=612x612&w=0&h=MXIoIRZTdFWcAQNNbRt7m6An03fl39NWRqzEiYjMpUU=");
+    background-size: cover;
+    background-repeat: no repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin: 0px 500px 0px 0px;
+    padding: 50px 100px 100px 50px;
+    position: relative;
+    left: 250px;
+  }
+  #name-label {
+    color: white;
+    font-size: 20px;
+  }
+  #name {
+    margin: 10px 0px 10px 0px;
+    padding: 10px 450px 10px 10px;
+    font-size: 18px;
+  }
+  
+  #email-label {
+    color: white;
+    font-size: 20px;
+  }
+  #email {
+    margin: 10px 0px 10px 0px;
+    padding: 10px 450px 10px 10px;
+    font-size: 18px;
+  }
+  #number-label {
+    color: white;
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+  }
+  #number {
+    display: flex;
+    flex-direction: row;
+    margin: 10px 10px 10px 0px;
+    padding: 10px 450px 10px 10px;
+    font-size: 18px;
+  }
+  #dropdown {
+    margin: 10px 0px 10px 0px;
+    padding: 10px 460px 10px 10px;
+    font-size: 18px;
+    color: rgba(45, 45, 45, 0.7);
+  }
+  label {
+    color: white;
+    line-height: 30px;
+    font-size: 20px;
+  }
+  #favorite {
+    margin: 10px 0px 10px 0px;
+    padding: 10px 470px 10px 0px;
+    color: rgba(45, 45, 45, 0.7);
+    font-size: 20px;
+  }
+  #text-area {
+    margin: 0px;
+    padding: 0px 0px 70px 10px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+  }
+  #submit {
+    position: relative;
+    left: 0px;
+    top: 20px;
+    margin: 0px;
+    padding: 10px 290px 10px 280px;
+    background: green;
+    color: white;
+    font-size: 20px;
+  }
